@@ -168,7 +168,7 @@ AKR7A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P38918"">P38918</a>",Ratt
 AKR7A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_003680"">NP_003680</a>",Homo sapiens,Aflatoxin aldehyde reductase,"<a href=""https://www.rcsb.org/structure/2BP1"">2BP1</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000053371;r=1:19303965-19312146;t=ENST00000235835"">Transcripts</a>"
 AKR7A3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_036199"">NP_036199</a>",Homo sapiens,Aflatoxin aldehyde reductase,"<a href=""https://www.rcsb.org/structure/2CLP"">2CLP</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000162482;r=1:19282558-19289250;t=ENST00000361640"">Transcripts</a>"
 AKR7A4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA90396"">BAA90396</a>",Rattus norvegicus,Rat aflatoxin aldehyde reductase,,
-AKR7A5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAB23073.1?report=genpept"">BAB23073</a>",Mus musculus,Mouse aflatoxin aldehyde reductase (Removed),,"<a href=""https://www.rcsb.org/structure/2C91"">2C91</a>"
+AKR7A5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAB23073.1?report=genpept"">BAB23073</a>",Mus musculus,Mouse aflatoxin aldehyde reductase (Removed),"<a href=""https://www.rcsb.org/structure/2C91"">2C91</a>",
 AKR8A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/O14295"">O14295</a>",Schizosaccharomyces pombe,pyridoxal reductase,,
 AKR8A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/O94521"">O94521</a>",Schizosaccharomyces pombe,pyridoxal reductase,,
 AKR9A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q00727"">Q00727</a>",Aspergillus nidulans,sterogmatocystin dehydrogenase -- StcV,,
